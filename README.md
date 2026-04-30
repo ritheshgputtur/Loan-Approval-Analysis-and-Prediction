@@ -14,7 +14,8 @@ This project analyzes loan approval data and builds a machine learning model to 
 - data/  
 - images/  
 - loan-approval-dashboard.pbix  
-- loan-report.pdf  
+- loan-report.pdf
+- Loan_approval_presentation  
 
 ## Key Insights
 - Higher credit score and income increase approval chances  
