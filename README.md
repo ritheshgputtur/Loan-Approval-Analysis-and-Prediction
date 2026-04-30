@@ -10,12 +10,12 @@ This project analyzes loan approval data and builds a machine learning model to 
 - Power BI dashboard for visualization  
 
 ## Files
-- Loan_Approval.ipynb  
-- data/  
-- images/  
-- loan-approval-dashboard.pbix  
-- loan-report.pdf
-- Loan_approval_presentation  
+- `Loan_Approval.ipynb` - Python file
+- `data/` - Loan approval data set 
+- `images/` - image that used in report
+- `loan-approval-report.pbix` - Projrct report
+- `loan-report.pdf` - Report PDF
+- `Loan_approval_presentation` - Project presentation
 
 ## Key Insights
 - Higher credit score and income increase approval chances  
